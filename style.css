@@ -1,0 +1,311 @@
+.container-fluid{
+    background-color: #307ecc;
+}
+
+
+p{
+    
+    font-size: 15px;
+    text-align: center;
+}
+
+
+
+.fa{
+    
+    color: ghostwhite;
+    padding-left: 10px;
+    margin: 10px 5px 5px 5px; 
+}
+
+
+
+.abc
+{
+    color: white;
+    margin-top: 10px;
+}
+
+
+
+.one{
+    background-color: whitesmoke;
+    padding-left: 40px;
+}
+
+
+
+
+.btn{
+    background-color:white;
+    margin-top: 3px;   
+    color: green;
+    font-size: 13px;
+    border-color: green;
+}
+
+
+.two{
+    background-color:#307ecc;
+    color: white;
+
+}
+
+.three{
+    background-color:#307ecc;
+    color: white;
+    margin-top: 10px;
+    height: 30px;
+  
+ 
+}
+
+
+.logo{
+
+    margin-left: 500px;
+    width: 20px; 
+}
+
+/* .container-1{
+    margin-top: 50px;
+    
+} */
+.heading{
+    padding-top: 20px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #307ecc;
+}
+span{
+    color: green;
+}
+.para{
+    margin: 30px 10% 50px 10%;
+    text-align: justify;
+    font-size: 15px;
+    line-height: 25px;
+    word-spacing: 0.8em;
+}
+
+
+.logo1{
+
+
+    margin-left: 500px;
+    width: 50px; 
+}
+
+.A,.B,.C{
+    
+    background-color: whitesmoke;
+    height: 180px;
+    width: 300px;
+    display: inline-block;
+   margin: 5px 10px 5px 10px;
+    
+    
+}
+.img-logo{
+    text-align: center;
+    width: 50px;
+    height: 50px;
+  
+
+}
+.cont-div{
+    display: flex;
+    flex-direction: row;
+    
+}
+.right{
+    border-bottom: 2px solid green;
+    justify-content: start;
+    width: 40px;
+    text-align: end;
+}
+.left{
+    
+    justify-content: end;
+    border-bottom : 2px solid green;
+    width: 40px;
+    text-align: end;
+}
+.img{
+  width: 300px;
+}
+
+ 
+ 
+.navbar{
+    padding-left: 100px;
+}
+
+
+.main{
+background-color:#307ecc;
+
+display: flex;
+flex-wrap: wrap;
+padding: 25px;
+/* margin-bottom: 20px; */
+justify-content: space-around;
+
+
+}
+.count{
+    font-size: 50px;
+}
+.box-main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+.box{
+    border: 1px solid white;
+    width: 270px;
+    height: 200px;
+    padding-top: 50px;
+    flex-wrap: wrap;
+    /* display: flex; */
+
+}
+
+.main2{
+    padding-bottom: 50px;
+    justify-content: space-around;
+   
+}
+.div-main{
+    text-align: center;
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+.div{
+    border: 1px solid white;
+    width: 290px;
+    height: 200px;
+    text-align: center;
+    margin: 3px;
+    margin-right: 3px;
+    padding-top: 40px;
+    background-color: white;
+
+}
+
+.nav-item:hover{
+    background-color: #307ecc;
+    border: 1px solid #307ecc;
+    border-radius: 20px;
+}
+
+
+.gallery{
+   
+     border: 1px solid white; 
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+
+}
+.img-gal{
+    border: 1px solid white;
+}
+
+
+.main-ex{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 70px;
+}
+.pex-div{
+    display: flex;
+    flex-wrap: wrap;
+ 
+    
+}
+.hepa{
+position: relative;
+bottom: 30px;
+right: 20px;
+}
+.pex{
+    border: 1px solid white;
+    height: 80px;
+    width: 300px;
+    padding-top: 20px;
+    padding-left: 10px;
+    color: rgb(49,109, 195); 
+}
+.mission{
+    font-size: 25px;
+   color: rgb(49,109, 195); 
+   font-weight: 700;    
+}
+.divider{
+    border: 1px solid green;
+    width: 60px;
+   
+
+}
+.divider-1{
+
+    border-bottom:1px solid gray;
+
+}
+
+
+
+.rasimg{
+    
+    border: 1px solid white;  
+}
+
+.r{
+    width: 100%;
+    border: 1px solid white; 
+}
+
+.contact-div{
+    margin-top: 20px;
+}
+ 
+.main-para{
+    padding-bottom: 60px;
+}
+.p-foot{
+    border-bottom: 1px solid gray;
+    font-weight: 700;
+}
+.section8{
+    border: 1px solid black;
+    padding-top: 50px;
+    width: 100%;
+    background-color: gray;
+}
+.foot-pa {
+    font-weight: 700;
+}
+.foot-ul{
+    list-style-type: none;
+}
+.faicon{
+    display: flex;
+}
+.faicon li{
+    position: relative;
+    right: 50px;
+    margin: 5px;
+    border: 1px solid  rgb(49,109, 195);
+    border-radius: 100%;
+    background-color:  rgb(49,109, 195);
+    list-style-type: none;
+}
+.section1{
+    width: 100%;
+   justify-content: start;
+}
